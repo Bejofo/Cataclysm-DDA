@@ -71,8 +71,7 @@
       "WATERPROOF_GUN",
       "NO_SALVAGE",
       "NO_UNLOAD",
-      "WATERPROOF_GUN",
-      "NEVER_JAMS"
+      "WATERPROOF_GUN"
     ],
     "skill": "throw",
     "ammo": [ "rock" ],
